@@ -1,0 +1,36 @@
+body {
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav_text {
+display: flex;
+align-items: center;
+justify-content: right;
+}
+.container{
+    margin-top: 30px;
+}
+.title_photo {
+    text-align: center;
+}
+
+.my_photo{
+    background: url(IMG_1983.JPG) no-repeat center center;
+    background-size: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.nav_logo{
+    background: url(IMG_1970.JPG) no-repeat center center;
+    background-size: 100%;
+    width: 74px;
+    height: 82px;
+}
