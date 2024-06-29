@@ -22,15 +22,35 @@ justify-content: right;
 }
 
 .my_photo{
-    background: url(IMG_1983.JPG) no-repeat center center;
+    background: url(../image/IMG_1983.JPG) no-repeat center center;
     background-size: 100%;
     width: 200px;
     height: 200px;
 }
 
 .nav_logo{
-    background: url(IMG_1970.JPG) no-repeat center center;
+    background: url(../image/IMG_1970.JPG) no-repeat center center;
     background-size: 100%;
     width: 74px;
     height: 82px;
+}
+
+.button_js {
+    text-align: center;
+}   
+
+#myButton {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color:
+    #4e6bc2;
+    color:
+    #fff;
+    font-weight: bold;
+}
+#demo img {
+    margin-top: 20px;
+    width: 25%;
 }
